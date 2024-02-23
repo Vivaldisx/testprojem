@@ -1,0 +1,35 @@
+{
+  "name": "testprojem",
+  "version": "1.0.0",
+  "description": "test açıklamam.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vivaldisx/testprojem"
+  },
+  "keywords": [
+    "react", 
+    "email input", 
+    "tag input", 
+    "email tags", 
+    "react component", 
+    "email validation", 
+    "autocomplete", 
+    "email field", 
+    "tagged input", 
+    "react tags"
+  ],
+  "author": "vivaldisx(https://github.com/vivaldisx)",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+   "devDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.0"
+  }
+}
